@@ -11,8 +11,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "22898133388"
-global.ownername = "🩵 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛"
+global.ownernomer = "2250574025815"
+global.ownername = "Senku Atsume"
 global.ytname = "YT: Jean-parker-tech"
 global.socialm = "GitHub: Jeanparker100"
 global.location = "Togo, maritime, Lomé"
@@ -26,14 +26,14 @@ global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🧸💜'
 global.author = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛'
 
 //console view/theme
-global.themeemoji = '🩵'
+global.themeemoji = '🤹'
 global.wm = "𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 in©"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VagLiHaEVccM6o6Sqc45'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['#']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
